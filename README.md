@@ -1,7 +1,7 @@
 ### Hi!
 
-I work in the .NET space, focusing on software architecture, model-driven development, and microservices.
+I work mostly with .NET, focusing on software architecture, model-driven development, and microservices.
 
-At PRIMAVERA we develop technology to build business management solutions.
+At Grupo Primavera we develop technology to build business management solutions.
 
 Feel free to reach out.
