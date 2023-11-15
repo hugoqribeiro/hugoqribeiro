@@ -1,4 +1,4 @@
-### Hi!
+Hi!
 
 I work mostly with .NET, focusing on software architecture, model-driven development, and microservices.
 
